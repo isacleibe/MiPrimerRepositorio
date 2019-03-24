@@ -1,1 +1,0 @@
-Aplica un cambio a la rama caracteristica_x
